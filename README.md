@@ -66,8 +66,8 @@ I'm capable of using this:
 ---
 <p align="left">
 <a href="https://github.com/WildanRaffians">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WildanRaffians&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shinshARK&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WildanRaffians&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinshARK&layout=compact&theme=dark)
