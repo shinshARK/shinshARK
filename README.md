@@ -10,6 +10,8 @@ Welcome to my GitHub profile! Here, you'll find a collection of projects, reposi
 - **Field of Study:** Computer Science Student  
 - **Interests:** Backend Development, Fullstack in general, Linux administration, and Capture the Flag competitions!
 
+Currently pivoting and learning about mobile development with react-native on an internship!
+
 ---
 
 ## 💻 Tools & Technologies
@@ -41,7 +43,7 @@ I'm capable of using this:
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
+![React Native](https://img.shields.io/badge/React%20Native-15172a?style=for-the-badge&logo=react&logoColor=white)
 ### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
