@@ -6,7 +6,6 @@ Welcome to my GitHub profile! Here, you'll find a collection of projects, reposi
 
 ## 🧑‍💻 About Me
 
-- **Name:** Jidan Abdurahman Aufan
 - **Field of Study:** Computer Science Student  
 - **Interests:** Backend Development, Fullstack in general, Linux administration, and Capture the Flag competitions!
 
